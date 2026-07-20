@@ -40,3 +40,19 @@ No inicio de 2025, eu decidi que iria mudar a minha vida, então comecei a pesqu
 
 ### PROJETO MAIS RECENTE
 
+<img src="https://raw.githubusercontent.com/Rodri92p/Sistema-bancario-em-Java-V2/master/assets/LOGOINTERKAIK.png" width="800" alt="Logo InterKaik">
+
+### SOBRE O PROJETO:
+
+STATUS: 50%
+
+Essa é a primeira versão de um projeto que é uma evolução do meu primeiro sistema bancário em Java. O projeto deixou de utilizar armazenamento em arquivos .txt e passou a trabalhar com banco de dados relacional e outras tecnologias, tornando a aplicação muito mais próxima de um sistema real. A ideia foi adaptar o primeiro projeto e melhorar o sistema bancário desktop desenvolvido em Java para simular as principais operações de um banco digital, utilizando JavaFX (ao inves do Java Swing) para a interface gráfica e Hibernate/JPA para persistência dos dados.
+
+O principal objetivo foi colocar em prática conhecimentos de desenvolvimento desktop, Programação Orientada a Objetos, persistência de dados, banco de dados e arquitetura de software.
+
+Além das funcionalidades bancárias, o projeto também serviu como laboratório para aprender tecnologias utilizadas no mercado, enfrentando desafios como integração entre JavaFX, PA/Hibernate, DAO, gerenciamento de entidades, navegação entre telas e tratamento de exceções.
+
+---
+
+ATUALIZADO EM 20/07 - 19:30
+
